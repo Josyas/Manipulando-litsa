@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YDbG+FVG4spb06l8+ake+Jdc5Qw6qfnhl7502ecRlobCV58bviuHCwu2ajJqTirKr72QKDf3moY51EgHPDMBQ==",
+  "success": true,
+  "projectFilePath": "E:\\CursoCharp\\listaTeste\\listaTeste\\listaTeste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

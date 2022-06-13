@@ -1,0 +1,16 @@
+E:\CursoCharp\listaTeste\listaTeste\bin\Debug\net5.0\listaTeste.exe
+E:\CursoCharp\listaTeste\listaTeste\bin\Debug\net5.0\listaTeste.deps.json
+E:\CursoCharp\listaTeste\listaTeste\bin\Debug\net5.0\listaTeste.runtimeconfig.json
+E:\CursoCharp\listaTeste\listaTeste\bin\Debug\net5.0\listaTeste.runtimeconfig.dev.json
+E:\CursoCharp\listaTeste\listaTeste\bin\Debug\net5.0\listaTeste.dll
+E:\CursoCharp\listaTeste\listaTeste\bin\Debug\net5.0\listaTeste.pdb
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.csproj.AssemblyReference.cache
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.GeneratedMSBuildEditorConfig.editorconfig
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.AssemblyInfoInputs.cache
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.AssemblyInfo.cs
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.csproj.CoreCompileInputs.cache
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.dll
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\refint\listaTeste.dll
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.pdb
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\listaTeste.genruntimeconfig.cache
+E:\CursoCharp\listaTeste\listaTeste\obj\Debug\net5.0\ref\listaTeste.dll
